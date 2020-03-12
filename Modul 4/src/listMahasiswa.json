@@ -1,0 +1,18 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 1584017297795,
+      "nim": "1741720123",
+      "nama": "Muhammad Anas Ziaulhaq",
+      "alamat": "Blitar",
+      "hp": "082231920996",
+      "angkatan": "2017",
+      "status": "aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
